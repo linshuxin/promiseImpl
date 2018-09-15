@@ -1,0 +1,10 @@
+{
+  "name": "promiseProject",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "promises-aplus-tests myPromise.js"
+  },
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
