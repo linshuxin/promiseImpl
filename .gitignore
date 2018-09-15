@@ -62,3 +62,5 @@ typings/
 
 # idea编辑器
 .idea
+
+package-lock.json
